@@ -1,0 +1,2 @@
+Make a directiry first then
+try to go into the directory and create a file.
